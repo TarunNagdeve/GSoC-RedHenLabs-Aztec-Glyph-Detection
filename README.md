@@ -1,8 +1,8 @@
-# GSoC 2021 Red Hen Labs
+# GSoC 2021 Red Hen Lab
 ![image](https://user-images.githubusercontent.com/66901757/119221827-e3294100-bb0e-11eb-8595-749a1dd9c932.png) 
 ![image](https://user-images.githubusercontent.com/66901757/119222398-d528ef80-bb11-11eb-836a-30dd3ee3ec64.png)
 ## Development of Visual Recognition Model for Aztec Hieroglyphs.
-This Google Sumer of Code project "Visual recognition and deciphering of Aztec glyphs using Keras" is contributed by Tarun Subhash Nagdeve with Red Hen Labs.
+This Google Sumer of Code project "Visual recognition and deciphering of Aztec glyphs using Keras" is contributed by Tarun Subhash Nagdeve with Red Hen Lab.
 * Code Team: Tarun Subhash Nagdeve & Lisardo Pérez Lugones <br />
 * Mentors: Stephanie Wood, Jungseock Joo & Juan José Batalla Rosado
 ### Project Description
